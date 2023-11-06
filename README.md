@@ -6,7 +6,7 @@
 </h2>
 
 <div id="header" align="center">
-  <vid src="https://media.giphy.com/media/cQhmYBg9qPaLYdqajA/giphy.mp4" width="330"/>
+  <vid src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="330"/>
 </div>
 
 
